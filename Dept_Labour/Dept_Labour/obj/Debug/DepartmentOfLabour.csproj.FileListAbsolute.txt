@@ -1,0 +1,12 @@
+C:\Users\GoodPlans\Downloads\Dept_Labour-20201007T061630Z-001\Dept_Labour\Dept_Labour\obj\Debug\DepartmentOfLabour.csprojAssemblyReference.cache
+C:\Users\GoodPlans\Downloads\Dept_Labour-20201007T061630Z-001\Dept_Labour\Dept_Labour\obj\Debug\DepartmentOfLabour.loginForm.resources
+C:\Users\GoodPlans\Downloads\Dept_Labour-20201007T061630Z-001\Dept_Labour\Dept_Labour\obj\Debug\DepartmentOfLabour.main.resources
+C:\Users\GoodPlans\Downloads\Dept_Labour-20201007T061630Z-001\Dept_Labour\Dept_Labour\obj\Debug\Dept_Labour.Properties.Resources.resources
+C:\Users\GoodPlans\Downloads\Dept_Labour-20201007T061630Z-001\Dept_Labour\Dept_Labour\obj\Debug\DepartmentOfLabour.regForm1.resources
+C:\Users\GoodPlans\Downloads\Dept_Labour-20201007T061630Z-001\Dept_Labour\Dept_Labour\obj\Debug\DepartmentOfLabour.csproj.GenerateResource.cache
+C:\Users\GoodPlans\Downloads\Dept_Labour-20201007T061630Z-001\Dept_Labour\Dept_Labour\obj\Debug\DepartmentOfLabour.csproj.CoreCompileInputs.cache
+C:\Users\GoodPlans\Downloads\Dept_Labour-20201007T061630Z-001\Dept_Labour\Dept_Labour\obj\Debug\Dept_Labour.exe
+C:\Users\GoodPlans\Downloads\Dept_Labour-20201007T061630Z-001\Dept_Labour\Dept_Labour\obj\Debug\Dept_Labour.pdb
+C:\Users\GoodPlans\Downloads\Dept_Labour-20201007T061630Z-001\Dept_Labour\Dept_Labour\bin\Debug\Dept_Labour.exe.config
+C:\Users\GoodPlans\Downloads\Dept_Labour-20201007T061630Z-001\Dept_Labour\Dept_Labour\bin\Debug\Dept_Labour.exe
+C:\Users\GoodPlans\Downloads\Dept_Labour-20201007T061630Z-001\Dept_Labour\Dept_Labour\bin\Debug\Dept_Labour.pdb
